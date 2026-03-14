@@ -44,7 +44,7 @@ O `gImageReader` é uma aplicação de código aberto que oferece uma interface 
 
 Para configurar/instalar/usar o `pdfimages` no `Linux Ubuntu`, você pode seguir estes passos:
 
-1. Abra o `Terminal Emulator`. Você pode fazer isso pressionando: `Ctrl + Alt + T`    
+1. Abrir o `Terminal Emulator`. Você pode fazer isso pressionando: `Ctrl + Alt + T`    
 
 2. Certifique-se de que seu sistema esteja limpo e atualizado.
 
@@ -110,7 +110,7 @@ Após a instalação, você poderá usar o comando pdfimages diretamente no term
 
 Para configurar/instalar/usar o `pdfimages` no `Linux Ubuntu` sem precisar digitar linha por linha, você pode seguir estas etapas:
 
-1. Abra o `Terminal Emulator`. Você pode fazer isso pressionando: `Ctrl + Alt + T`
+1. Abrir o `Terminal Emulator`. Você pode fazer isso pressionando: `Ctrl + Alt + T`
 
 2. Digite o seguinte comando e pressione `Enter`:
 
